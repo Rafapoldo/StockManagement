@@ -1,0 +1,1 @@
+This folder can be deleted after imported to your database.
