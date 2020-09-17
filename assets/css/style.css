@@ -1,0 +1,15 @@
+
+
+/* Cabeçalho CSS */
+
+.cabecalho{
+    background: URL('../images/unnamed.png');
+    height: 107px;
+}
+
+
+.rodape{
+    background: black;
+    box-shadow: 0 100vh 0 100vh black;
+    color: grey;
+}
